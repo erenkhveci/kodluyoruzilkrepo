@@ -1,5 +1,7 @@
 <div align="center">
+  
 # Kodluyoruz Ilk Repo
+
 </div>
 
 Bu repo [Kodluyoruz'un](https://kodluyoruz.org/tr/kodluyoruz/) ***Java İle Backend*** eğitiminde oluşturduğum ilk repo. İçerisinde bir adet *README* dosyası, bir adet de *index.html* barındırıyor.
